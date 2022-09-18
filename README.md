@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [linux servers](http://haripi.ddns.net)
 
-- 🤝 I’m looking for help with **anything that can be useful for anyone and my self**
+- 🤝 I’m looking to help with **anything that can be useful for anyone and my self**
 
 - 💬 Ask me about **OS, DB, Hardware...**
 
